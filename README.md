@@ -6,7 +6,9 @@ Here consistentHash.go is a "go client" which distributes keys among three serve
 
 Start server at port 3000, 3001, 3002 using following commands
 **go run server.go 3000**
+
 **go run server.go 3001**
+
 **go run server.go 3002**
 
 #**Sample PUT request at client:**
